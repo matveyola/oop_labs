@@ -1,7 +1,7 @@
 # Java labs(Python as secondary languge)
 
 ## Structure
-*labX_py* - java code for labX
+*labX_jav* - java code for labX
 
 *labX_py* - python code for labX
 
